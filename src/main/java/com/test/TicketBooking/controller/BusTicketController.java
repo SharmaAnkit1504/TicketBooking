@@ -9,7 +9,7 @@ public class BusTicketController {
 
 
 
-    @GetMapping("/busbooking")
+    @GetMapping("/busbookingg")
     public String createBooking(){
 
         double pnr = Math.random();
